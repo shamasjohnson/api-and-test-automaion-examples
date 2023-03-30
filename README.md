@@ -10,6 +10,7 @@ This repository contains two projects: one for testing the Amazon.com UI with Se
 
 
 Prerequisites:
+
 To run Rest Assured and Selenium UI tests, you must have the following software installed on your machine -
 
 - Java Development Kit (JDK) version 8 or higher. I recommend using the latest version of Java available.
