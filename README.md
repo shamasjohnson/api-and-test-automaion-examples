@@ -1,10 +1,13 @@
 # api-and-test-automaion-examples
 
 Introduction:
+
 This guide provides step-by-step instructions for running Rest Assured and Selenium UI tests in Java with J-Unit. By following these instructions, you can easily set up and run the projects included in this repository.
 
 Background:
+
 This repository contains two projects: one for testing the Amazon.com UI with Selenium, and another for testing the Swagger Pet Store using Rest Assured.
+
 
 Prerequisites:
 To run Rest Assured and Selenium UI tests, you must have the following software installed on your machine -
