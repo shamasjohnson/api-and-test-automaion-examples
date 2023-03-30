@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: postoffice.amazon_ui_automation.tests.Test001_ValidateSearchResults
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.577 s - in postoffice.amazon_ui_automation.tests.Test001_ValidateSearchResults

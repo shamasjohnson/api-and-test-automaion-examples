@@ -1,0 +1,6 @@
+postoffice\api_automation\TestComponents\BaseTest.class
+postoffice\amazon_ui_automation_example\AppTest.class
+postoffice\api_automation\tests\Test001_CreatePet.class
+postoffice\api_automation\tests\Test004_DeletePet.class
+postoffice\api_automation\tests\Test003_GetPet.class
+postoffice\api_automation\tests\Test002_UpdatePet.class
