@@ -51,7 +51,7 @@ It is recommended to use the latest version of Java available to ensure compatib
 
 ## License
 
-This project, "api-and-test-automation-examples," is open-source and available under the [MIT License](LICENSE.MD). Feel free to use and modify the code as needed.
+This project, "api-and-test-automation-examples," is open-source and available under the [MIT License](LICENSE.md). Feel free to use and modify the code as needed.
 
 ## Acknowledgments
 
