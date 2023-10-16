@@ -1,4 +1,4 @@
-# api-and-test-automaion-examples
+# API and Test Automation Examples
 
 Introduction:
 
